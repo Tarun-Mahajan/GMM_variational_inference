@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Variational Inference for Gaussian Mixture Model
 
 You can use the [editor on GitHub](https://github.com/Tarun-Mahajan/GMM_variational_inference/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
